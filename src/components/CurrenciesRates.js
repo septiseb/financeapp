@@ -46,7 +46,7 @@ export default function CurrenciesRates() {
         })
     }    
     return (
-        <div>
+        <div className="w-full">
             <div>
                 <input 
                     type="date"
